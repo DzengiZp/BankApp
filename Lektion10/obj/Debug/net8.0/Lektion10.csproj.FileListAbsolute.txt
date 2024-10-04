@@ -1,0 +1,14 @@
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\bin\Debug\net8.0\Lektion10.exe
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\bin\Debug\net8.0\Lektion10.deps.json
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\bin\Debug\net8.0\Lektion10.runtimeconfig.json
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\bin\Debug\net8.0\Lektion10.dll
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\bin\Debug\net8.0\Lektion10.pdb
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\Lektion10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\Lektion10.AssemblyInfoInputs.cache
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\Lektion10.AssemblyInfo.cs
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\Lektion10.csproj.CoreCompileInputs.cache
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\Lektion10.dll
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\refint\Lektion10.dll
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\Lektion10.pdb
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\Lektion10.genruntimeconfig.cache
+C:\Users\dzeng\Desktop\Lektioner\Lektion10\obj\Debug\net8.0\ref\Lektion10.dll
